@@ -1,0 +1,21 @@
+body{
+    background-image: url('./img/img-4.jpg');
+    
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-content: center; 
+    backdrop-filter: blur(3px);
+}
+.p
+{   font-size: 100%;
+    font-display: 150px;
+    font-weight: bold;
+    color: white;
+    font-family: sans-serif
+    
+}
+.sa{
+    text-align: left;
+}
